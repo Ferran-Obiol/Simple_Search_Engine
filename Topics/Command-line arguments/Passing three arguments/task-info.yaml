@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: java Demo arg1,arg2,arg3
+- text: java Demo arg1arg2arg3
+- text: java Demo arg1 arg2 arg3
+- text: java Demo arg1-arg2-arg3
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2909#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 24 May 2022 18:22:03 UTC
+record: -1
+selected_options:
+- 2

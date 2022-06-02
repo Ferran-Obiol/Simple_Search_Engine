@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: 1
+- text: 2
+- text: 3
+- text: 4
+- text: 5
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2976#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Sun, 29 May 2022 12:24:37 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 2

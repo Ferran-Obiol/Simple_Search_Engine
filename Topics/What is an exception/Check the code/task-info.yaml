@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: String output = String.valueOf(input);
+- text: boolean result = output.equals(input);
+- text: result = input.equals(output);
+- text: System.out.println(result);
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19627#comment
+status: Unchecked
+record: -1
