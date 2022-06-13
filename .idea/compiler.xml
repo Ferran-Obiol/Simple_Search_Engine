@@ -9,6 +9,13 @@
       <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-test-results.main" target="11" />
       <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-tmp.main" target="11" />
       <module name="Simple_Search_Engine.Simple_Search_Engine-task.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-An_incorrect_statement.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-Characterize_the_abstract_class.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-Features_of_an_abstract_method.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-IntBinaryOperation.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-Parts_of_an_abstract_class.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Abstract_class-Which_methods_must_be_overridden.main" target="11" />
       <module name="Simple_Search_Engine.Topics-ArrayList-Concat_positive_numbers.main" target="11" />
       <module name="Simple_Search_Engine.Topics-ArrayList-Find_the_nearest_number.main" target="11" />
       <module name="Simple_Search_Engine.Topics-ArrayList-The_behavior_of_methods.main" target="11" />
@@ -59,6 +66,11 @@
       <module name="Simple_Search_Engine.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Introduction_to_generic_programming-Type_arguments_-_2.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Introduction_to_generic_programming-Type_parameter_inside_a_class_body.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multiple_constructors-Class_instantiation.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multiple_constructors-Entanglement.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multiple_constructors-Suppose,_you_have_a_class.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multiple_constructors-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Multiple_constructors-Time.main" target="11" />
       <module name="Simple_Search_Engine.Topics-NPE-Avoid_NPE.main" target="11" />
       <module name="Simple_Search_Engine.Topics-NPE-Theory.main" target="11" />
       <module name="Simple_Search_Engine.Topics-NPE-When_NPE_cannot_occur.main" target="11" />
@@ -73,6 +85,15 @@
       <module name="Simple_Search_Engine.Topics-Polymorphism-Notification.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
       <module name="Simple_Search_Engine.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Strategy-Concrete_strategies.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Strategy-Context_in_strategy_pattern.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Strategy-Pick_your_team.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Strategy-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Template_method-Build_a_house.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Template_method-Career.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Template_method-New_customer.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Template_method-Social_networks.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Template_method-Theory.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_Collections_Framework_overview-Creating_instances.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_Collections_Framework_overview-Squares_list.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_Collections_Framework_overview-Theory.main" target="11" />
@@ -81,6 +102,7 @@
       <module name="Simple_Search_Engine.Topics-The_for-loop-Grades.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_for-loop-Statements.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_for-loop-Such_different_for_loops.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_for-loop-Theory.main" target="11" />
       <module name="Simple_Search_Engine.Topics-The_keyword_super-Bank_account.main" target="11" />

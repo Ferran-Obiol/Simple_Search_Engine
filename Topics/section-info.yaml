@@ -19,3 +19,7 @@ content:
 - The List interface
 - The Set interface
 - The Map interface
+- Abstract class
+- Strategy
+- Multiple constructors
+- Template method

@@ -322,6 +322,88 @@ files:
         }
     }
   learner_created: false
+- name: src/search/Person.java
+  visible: true
+  text: |
+    package search;
+
+    public class Person {
+
+        private String firstName = "";
+        private String lastName = "";;
+        private String email = "";;
+
+        public Person() {
+        }
+
+        public Person(String firstName, String lastName, String email) {
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.email = email;
+        }
+
+        public String getFirstName() {
+            return firstName;
+        }
+
+        public void setFirstName(String firstName) {
+            this.firstName = firstName;
+        }
+
+        public String getLastName() {
+            return lastName;
+        }
+
+        public void setLastName(String lastName) {
+            this.lastName = lastName;
+        }
+
+        public String getEmail() {
+            return email;
+        }
+
+        public void setEmail(String email) {
+            this.email = email;
+        }
+
+        public boolean isPerson(String toSearch) {
+            return (firstName.toLowerCase().contains(toSearch.toLowerCase())
+                    || lastName.toLowerCase().contains(toSearch.toLowerCase())
+                    || email.toLowerCase().contains(toSearch.toLowerCase()));
+        }
+
+        @Override
+        public String toString() {
+            return firstName + " " + lastName + (email.isBlank() ? "" : " " + email);
+        }
+    }
+  learner_created: true
+- name: src/search/SearchStrategy.java
+  visible: true
+  learner_created: true
+- name: src/search/SearchAny.java
+  visible: true
+  learner_created: true
+- name: src/search/SearchNone.java
+  visible: true
+  learner_created: true
+- name: src/search/SearchAll.java
+  visible: true
+  learner_created: true
+- name: src/text.txt
+  visible: true
+  text: |-
+    Dwight Joseph djo@gmail.com
+    Rene Webb webb@gmail.com
+    Katie Jacobs
+    Erick Harrington harrington@gmail.com
+    Myrtle Medina
+    Erick Burgess
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5501#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Mon, 13 Jun 2022 16:29:40 UTC
 record: -1
